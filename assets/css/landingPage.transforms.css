@@ -1,0 +1,12 @@
+li .contact:hover {
+    transform: scale(2);
+}
+
+li .about:hover {
+    transform: scale(2);
+}
+
+li .portfolio:hover {
+    transform: scale(2);
+}
+
